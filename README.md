@@ -1,4 +1,4 @@
-# Hi, I'm Dusan 👋🏾 👩🏾‍💻
+# Hi, I'm Dusan 👋
 
 <img src="https://raw.githubusercontent.com/dodalovic/dodalovic/main/gh-header-image-cropped.png" alt="Dusan Odalovic GitHub page">
 
