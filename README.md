@@ -1,6 +1,6 @@
 # Hi, I'm Dusan 👋🏾 👩🏾‍💻
 
-<img src="https://raw.githubusercontent.com/dodalovic/dodalovic/master/gh-header-image-cropped.png" alt="Dusan Odalovic GitHub page">
+<img src="https://raw.githubusercontent.com/dodalovic/dodalovic/main/gh-header-image-cropped.png" alt="Dusan Odalovic GitHub page">
 
 Helping businesses transform their ideas to software for over a decade.
 
